@@ -6,7 +6,7 @@ Forked from https://github.com/cvluca/gatsby-starter-markdown.
 
 This starter is boilerplate for (technical) documentation websites optionally accompanied by a blog (you can use it forever you want of course).
 
-# Getting started
+# Getting started1
 
 ```bash
 npm install gatsby -g
