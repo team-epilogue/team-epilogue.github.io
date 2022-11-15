@@ -2,59 +2,33 @@
 ---
 
 <h1 align="center">
-  Introduction
+  Prologue
 </h1>
 
-# Gatsby Ant-Design Documentation Starter
+# **프로젝트 개요**
 
-Forked from https://github.com/cvluca/gatsby-starter-markdown.
+프롤로그는 많은 사용자들이 깃허브 블로그를 쉽게 이용할 수 있도록 도와주는 솔루션서비스 입니다.
 
-This starter is boilerplate for (technical) documentation websites optionally accomponied by a blog (you can use it forever you want of course).
+# **주요기능**
 
-# Getting started
+- **블로그**
 
-```
-npm install gatsby -g
-gatsby new my-docs https://github.com/jannikbuschke/gatsby-antd-docs
-cd my-docs
-npm run start
-```
+  - 블로그 생성
+  - 블로그 설정
+  - 블로그 배포
 
-Visit http://localhost:8000.
+- **게시글**
 
-Edit files in `/content/docs` and see live updates.
+  - 게시글 목록
+  - 게시글 작성
+  - 게시글 수정
+  - 게시글 삭제
 
-# Features
+- **레이아웃**
+  - 레이아웃 구조 설정
+  - 레이아웃 상세 설정
 
-- [x] Ant Design
-- [x] Typescript
-- [x] Markdown
-- [x] MDX
-- [x] Syntax highlighting
-
-# Roadmap
-
-- [x] Add typescript
-- [x] Remove Redux
-- [x] General simplifications
-- [x] Add mdx
-- [x] Add syntax highlighting with prismjs
-- [x] Improve Header UI
-- [ ] Fix menu item links not showing active state
-- [ ] Blog feature / second content type
-- [ ] Improved typings
-- [ ] Improved responsiveness
-- [ ] Add Search
-
-# Hosting
-
-In order to host the site the **sites path** needs to be put into gatsby-config.js export object on to the property _pathPrefix_. Then run
-
-```
-npm run build
-```
-
-and copy the content of the public folder to the webspace.
+#
 
 # License
 

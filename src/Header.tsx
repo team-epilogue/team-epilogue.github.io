@@ -15,7 +15,7 @@ export class Header extends Component<Props> {
         <Menu mode="horizontal">
           <Menu.Item>
             <Link to="/docs/template/get-started/introduction/">
-              {siteTitle}
+              Prologue Documentation
             </Link>
           </Menu.Item>
           <Menu.Item icon={<GithubOutlined />}>
