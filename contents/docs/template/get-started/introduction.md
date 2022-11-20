@@ -32,4 +32,4 @@
 
 # License
 
-MIT
+- [MIT License](http://prologue-docs.site/docs/template/community-guide/license)

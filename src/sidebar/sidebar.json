@@ -11,25 +11,21 @@
     "name": "프롤로그 가이드",
     "link": "",
     "items": [
-      { "name": "블로그 생성", "link": "/docs/template/guide/createBlog" },
-      { "name": "대시보드", "link": "/docs/template/guide/dashboard" },
-      { "name": "블로그 설정", "link": "/docs/template/guide/blogSetting" },
-      { "name": "레이아웃 설정", "link": "/docs/template/guide/layout" },
-      { "name": "게시글 작성", "link": "/docs/template/guide/posts" }
+      { "name": "블로그 생성", "link": "/docs/template/prologue-guide/createBlog" },
+      { "name": "대시보드", "link": "/docs/template/prologue-guide/dashboard" },
+      { "name": "블로그 설정", "link": "/docs/template/prologue-guide/blogSetting" },
+      { "name": "레이아웃 설정", "link": "/docs/template/prologue-guide/layout" },
+      { "name": "게시글 작성", "link": "/docs/template/prologue-guide/posts" }
     ]
   },
   {
     "name": "커뮤니티 가이드",
     "link": "",
     "items": [
-      {
-        "name": "행동강령",
-        "link": "/docs/template/lorem-ipsum/contributorCovenant"
-      },
-      {
-        "name": "기여",
-        "link": "/docs/template/lorem-ipsum/Lorem"
-      }
+      { "name": "행동강령", "link": "/docs/template/community-guide/contributorCovenant" },
+      { "name": "기여 가이드", "link": "/docs/template/community-guide/contributionGuide" },
+      { "name": "기여 규칙", "link": "/docs/template/community-guide/contributionConvention" },
+      { "name": "라이센스", "link": "/docs/template/community-guide/license" }
     ]
   }
 ]
