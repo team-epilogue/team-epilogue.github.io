@@ -5,7 +5,7 @@
 기여 가이드
 </h1>
 
-prologue는 [Contributor Covenant](http://prologue-docs.site/docs/template/community-guide/contributorCovenant)을 행동 강령으로 채택했으며, 모든 프로젝트 참여자가 준수하기를 기대합니다. 전문을 읽고 어떤 행동이 허용되고 허용되지 않는지 확인할 수 있습니다.
+prologue는 [Contributor Covenant](./contributorCovenant)을 행동 강령으로 채택했으며, 모든 프로젝트 참여자가 준수하기를 기대합니다. 전문을 읽고 어떤 행동이 허용되고 허용되지 않는지 확인할 수 있습니다.
 
 ## **기여 선행 조건**
 

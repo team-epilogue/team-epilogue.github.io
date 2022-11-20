@@ -93,4 +93,4 @@ ex) [FE] feat: 홈페이지 이미지추가
 
 - [ ] 커밋 컨벤션을 맞췄나요?
 - [ ] 오류나는 코드는 없나요?
-- [ ] [라이센스](http://prologue-docs.site/docs/template/community-guide/license)와 [Prologue Contribution Guide](http://prologue-docs.site/docs/template/community-guide/contributionGuide)를 잘 숙지하셨나요?
+- [ ] [라이센스](./license)와 [Prologue Contribution Guide](./contributionGuide)를 잘 숙지하셨나요?
