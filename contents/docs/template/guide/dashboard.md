@@ -2,60 +2,35 @@
 ---
 
 <h1 align="center">
-  Introduction
+  대시보드
 </h1>
 
-# Gatsby Ant-Design Documentation Starter
+## 1. 달력
 
-Forked from https://github.com/cvluca/gatsby-starter-markdown.
+-
 
-This starter is boilerplate for (technical) documentation websites optionally accomponied by a blog (you can use it forever you want of course).
+## 2. 블로그 바로가기
 
-# Getting started
+-
 
-```
-npm install gatsby -g
-gatsby new my-docs https://github.com/jannikbuschke/gatsby-antd-docs
-cd my-docs
-npm run start
-```
+## 3. 전체 게시글 수
 
-Visit http://localhost:8000.
+-
 
-Edit files in `/content/docs` and see live updates.
+## 4. 레포지토리 사용량
 
-# Features
+-
 
-- [x] Ant Design
-- [x] Typescript
-- [x] Markdown
-- [x] MDX
-- [x] Syntax highlighting
+## 5. 최근 빌드 시간
 
-# Roadmap
+-
 
-- [x] Add typescript
-- [x] Remove Redux
-- [x] General simplifications
-- [x] Add mdx
-- [x] Add syntax highlighting with prismjs
-- [x] Improve Header UI
-- [ ] Fix menu item links not showing active state
-- [ ] Blog feature / second content type
-- [ ] Improved typings
-- [ ] Improved responsiveness
-- [ ] Add Search
+## 6. 배포 버튼
 
-# Hosting
+-
 
-In order to host the site the **sites path** needs to be put into gatsby-config.js export object on to the property _pathPrefix_. Then run
+## 7. 게시글 목록
 
-```
-npm run build
-```
+-
 
-and copy the content of the public folder to the webspace.
-
-# License
-
-MIT
+## 8. 블로그 설정

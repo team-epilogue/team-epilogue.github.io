@@ -4,19 +4,18 @@
     "link": "",
     "items": [
       { "name": "서비스 소개", "link": "/docs/template/get-started/introduction" },
-      { "name": "계정 연동", "link": "/docs/template/get-started/login" },
-      { "name": "블로그 생성", "link": "/docs/template/get-started/createBlog" }
+      { "name": "계정 연동", "link": "/docs/template/get-started/login" }
     ]
   },
   {
     "name": "프롤로그 가이드",
     "link": "",
     "items": [
-      { "name": "블로그 정보 수정", "link": "/docs/template/guide/blogSetting" },
+      { "name": "블로그 생성", "link": "/docs/template/guide/createBlog" },
       { "name": "대시보드", "link": "/docs/template/guide/dashboard" },
-      { "name": "게시글 작성", "link": "/docs/template/guide/posts" },
-      { "name": "페이지 설정", "link": "/docs/template/guide/page" },
-      { "name": "레이아웃 설정", "link": "/docs/template/guide/layout" }
+      { "name": "블로그 설정", "link": "/docs/template/guide/blogSetting" },
+      { "name": "레이아웃 설정", "link": "/docs/template/guide/layout" },
+      { "name": "게시글 작성", "link": "/docs/template/guide/posts" }
     ]
   },
   {
